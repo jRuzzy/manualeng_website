@@ -58,3 +58,11 @@ v0.1.1 - Changes to README.md
 Desc:
 
 Clarifications to specify what can and can't be done on the website code to authorized collaborators.
+
+--------------------------------------------------------------------------
+
+v0.1.2 - Commit refresh
+
+Desc:
+
+I messed up the commit title on the last one :( and it's gonna confuse me so I'm gonna go ahead and change it. - J Ruiz
