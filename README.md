@@ -1,6 +1,10 @@
 # manualeng_website
 The Dupont Manual Engineering Club is in need of a website to advertise and sell student-made products and projects. Here will be all the files and documentation for updates and changes to the code.
 
+If allowed to assist on the websites development, being a student, please refrain from committing without a summary of your work in a temporary .txt file labeled as *v#.#.# Update - User*. Example: v1.1.1 Update - Jesus Ruiz.txt.
+
+If a teacher is allowed as a collaborator you will have admin access and will be allowed to hand off access to any other students who may want to assist. Teachers and other admins will be in charge of monitoring commits into the code.
+
 --------------------------------------------------------------------------
 
 Product Goals:
@@ -46,3 +50,11 @@ Code Changes:
 Ref:
 
 Next version should focus on setting up a basis for the style of the main page to be reused throughout the rest of the website. By the end of v0.2 all information and image spaces should be set up.
+
+--------------------------------------------------------------------------
+
+v0.1.1 - Changes to README.md
+
+Desc:
+
+Clarifications to specify what can and can't be done on the website code to authorized collaborators.
